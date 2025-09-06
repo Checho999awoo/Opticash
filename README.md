@@ -1,1 +1,23 @@
-OptiCash es un sistema académico de gestión de préstamos personales, cuyo objetivo es permitir al usuario registrar sus créditos, calcular cuotas básicas (con intereses simples o compuestos), realizar abonos a capital, y recibir alertas cuando los pagos superen un porcentaje de sus ingresos registrados y sugerir o recalcular el crédito con abonos a capital para que el usuario termine el crédito los más ante posibles. 
+Gestion Laboratorio
+Resumen del Proyecto
+El proyecto consiste en diseñar e implementar un sistema académico llamado OptiCash de gestión de préstamos personales, cuyo objetivo es permitir al usuario registrar sus créditos, calcular cuotas básicas (con intereses simples o compuestos), realizar abonos a capital, y recibir alertas cuando los pagos superen un porcentaje de sus ingresos registrados y sugerir o recalcular el crédito con abonos a capital para que el usuario termine el crédito los más ante posibles. 
+
+Documentación
+Repositorios con la documentación
+Documentación general
+Gestión de Agenda
+Gestión de Hoja de Vida
+Enlace de insterés
+Drive Avance del proyecto
+Mockups
+Repositorio frontend
+Para el despliegue del frontend, consulte el repositorio correspondiente: Frontend
+
+Repositorio backend
+Los componentes del backend se despliegan mediante los siguientes repositorios:
+
+Backend Seguridad
+Backend Gestión de Agenda
+Backend Gestión de Hoja de Vida
+Exponer Servicios
+Para garantizar una arquitectura escalable y segura, los servicios del sistema se exponen a través de un API Gateway. Este componente actúa como un punto de entrada único para todas las solicitudes de los clientes, proporcionando una capa de abstracción que simplifica la interacción con los diferentes microservicios del sistema. Además de servir como un punto de entrada, el API Gateway también ofrece funcionalidades avanzadas de seguridad, monitoreo y gestión del tráfico, lo que permite implementar políticas de autorización y autenticación, realizar análisis de tráfico en tiempo real y garantizar la alta disponibilidad del sistema. De esta manera, el API Gateway juega un papel fundamental en la robustez y confiabilidad del sistema de gestión de laboratorios de la Corporación Universitaria del Huila - CORHUILA.
