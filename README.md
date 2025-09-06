@@ -1,1 +1,1 @@
-# Opticash
+OptiCash es un sistema académico de gestión de préstamos personales, cuyo objetivo es permitir al usuario registrar sus créditos, calcular cuotas básicas (con intereses simples o compuestos), realizar abonos a capital, y recibir alertas cuando los pagos superen un porcentaje de sus ingresos registrados y sugerir o recalcular el crédito con abonos a capital para que el usuario termine el crédito los más ante posibles. 
