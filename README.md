@@ -2,12 +2,7 @@
 
 ## Resumen del Proyecto
 
-El proyecto consiste en diseñar e implementar un sistema académico llamado **OptiCash** de gestión de préstamos personales. Su objetivo es permitir al usuario:
-- Registrar sus créditos  
-- Calcular cuotas básicas (con intereses simples o compuestos)  
-- Realizar abonos a capital  
-- Recibir alertas cuando los pagos superen un porcentaje de sus ingresos registrados  
-- Sugerir o recalcular el crédito con abonos a capital para que el usuario termine el crédito lo más pronto posible  
+El proyecto consiste en diseñar e implementar un sistema académico llamado OptiCash de gestión de préstamos personales, cuyo objetivo es permitir al usuario registrar sus créditos, calcular cuotas básicas (con intereses simples o compuestos), realizar abonos a capital, y recibir alertas cuando los pagos superen un porcentaje de sus ingresos registrados y sugerir o recalcular el crédito con abonos a capital para que el usuario termine el crédito los más ante posibles.  
 
 ## Documentación
 
