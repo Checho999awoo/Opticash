@@ -1,4 +1,4 @@
-# Gestión Laboratorio
+# Gestión Laboratorio OptiCash $
 
 ## Resumen del Proyecto
 
